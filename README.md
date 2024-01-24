@@ -15,5 +15,8 @@ Essas são as tecnologias que utilizei:
    ![](https://komarev.com/ghpvc/?username=your-github-oseasviza)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oseasviza)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
+
+   <h2>Imagem do projeto pronto</h2>
 
    <img src="https://github.com/oseasviza/Meu-conversor-de-moedas/blob/master/assets/notebook%20+%20celular%20Conversor%20de%20moedas.png?raw=true"/>
