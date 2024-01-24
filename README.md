@@ -1,6 +1,6 @@
 ### Olá, 😎
 
-Eu sou Oseas Viza, programador Front End, atualmente aprendendo e criando projetos:
+Eu sou Oseas Viza, estudante de programação Front End Back End. Neste trabalho pude colocar em prática meu aprendizado até agora. Desafiador mas, muito gratificante ver o projeto pronto. 
 <br>
 <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
